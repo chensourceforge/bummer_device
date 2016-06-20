@@ -1,1 +1,1 @@
-# bummer_device
+Device for the visually impaired
